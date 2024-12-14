@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error where an array is passed to a function expecting a single string.  The `bug.ts` file shows the erroneous code, while `bugSolution.ts` offers a corrected implementation.  This is a valuable example for understanding type safety in TypeScript and how to handle different data types correctly.
